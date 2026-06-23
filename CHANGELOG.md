@@ -1,5 +1,10 @@
 # CHANGELOG
 
+## 0.3.1
+
+- macOSで「壊れているため開けません」と表示される原因となっていた署名不整合を修正
+- macOS / Apple Silicon 向けDMGをad-hoc署名付きで再生成
+
 ## 0.3.0
 
 - macOS / Apple Silicon 向け配布版を公開
