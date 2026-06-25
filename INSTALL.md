@@ -2,7 +2,7 @@
 
 ## インストール手順
 
-1. Releases ページから `Mapping-SFA-0.3.1-arm64.dmg` をダウンロードします
+1. Releases ページから `Mapping-SFA-0.3.2-arm64.dmg` をダウンロードします
 2. ダウンロードした DMG を開きます
 3. `Mapping-SFA.app` を `Applications` フォルダへドラッグします
 4. `Applications` フォルダから `Mapping-SFA` を起動します
@@ -30,6 +30,7 @@
 1. Releases ページから新しい DMG をダウンロードします
 2. 新しい `Mapping-SFA.app` を `Applications` フォルダへ上書きします
 3. 起動時に警告が出た場合は、再度 `右クリック → 開く` を実施してください
+4. 既存のアプリデータ（IndexedDB / localStorage）はそのまま引き継がれます
 
 ## アンインストール方法
 
